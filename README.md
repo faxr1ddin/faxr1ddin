@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faxr1ddin&label=Profile%20views&color=0e75b6&style=flat" alt="faxr1ddin" /> </p>
 
-- 🔭 I’m currently working on **Project JahongirQori**
+- 🔭 I’m currently working on **Project ""**
 
 - 🌱 I’m currently learning **SwiftUI , Unit/UITesting and SOLID**
 
-- 💬 Ask me about **topics about Swift , cars , gadgets and films.**
+- 💬 Ask me about **topics about Swift.**
 
 - 📫 How to reach me **faxaoff@gmail.com**
 
