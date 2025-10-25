@@ -40,7 +40,7 @@ Currently:
 
 ## 🚀 Featured Projects  
 
-### 🥗 [Healthy Food App](https://github.com/faxr1ddin/Healthy-Food)  
+### 🥗 Healthy Food App  
 > A SwiftUI-based food scanner that analyzes ingredients and determines whether products are **Halal or Haram**.
 
 ### 📱 iOS Group App (App Store)  
