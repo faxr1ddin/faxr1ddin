@@ -59,15 +59,8 @@ Currently:
 
 ---
 
-## 💬 Quote  
-
-> *“Code should not just work — it should inspire.”* ✨  
-
----
-
 <div align="center">
 
-### 🧡 Always open for collaboration and innovative ideas.
-Made with ❤️ by **Faxriddin_M**
+### 🧡 Always open for collaboration and innovative ideas.**
 
 </div>
