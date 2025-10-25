@@ -1,23 +1,73 @@
-<h1 align="center">Hi 👋, I'm Faxriddin_M</h1>
-<h3 align="center">A passionate iOS developer from Uzbekistan</h3>
+<!-- 🌙 Modern Minimal GitHub Profile by Faxriddin_M -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faxr1ddin&label=Profile%20views&color=0e75b6&style=flat" alt="faxr1ddin" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Project ""**
+# Faxriddin Moydinxonov  
+**iOS Developer | Swift Enthusiast | Problem Solver**  
+📍 Tashkent, Uzbekistan
 
-- 🌱 I’m currently learning **SwiftUI , Unit/UITesting and SOLID**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faxriddin-mo-ydinxonov-0606992a2)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faxr1ddin)
+[![Email](https://img.shields.io/badge/Email-faxaoff@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faxaoff@gmail.com)
 
-- 💬 Ask me about **topics about Swift.**
+</div>
 
-- 📫 How to reach me **faxaoff@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/faxridd1n_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faxridd1n_m" height="30" width="40" /></a>
-</p>
+## 🧭 About Me  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+I’m an **iOS developer** passionate about building clean, user-focused, and scalable apps.  
+I love turning ideas into elegant mobile experiences using **Swift** and **SwiftUI**.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faxr1ddin&show_icons=true&locale=en&layout=compact" alt="faxr1ddin" /></p>
+Currently:
+- 🚧 Exploring **SwiftUI**, **Unit/UITesting**, and **SOLID principles**
+- 📱 Building a **Halal Food Scanner App** that identifies product E-codes  
+- 🤝 Collaborated on an **App Store project** with **1K+ active users**
 
+---
+
+## 🧰 Tech Stack  
+
+<div align="center">
+  
+| iOS Development | Tools & Platforms | Design |
+|:--|:--|:--|
+| Swift · SwiftUI · UIKit · CoreData | Git · Firebase · REST API | Figma · Photoshop |
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🥗 [Healthy Food App](https://github.com/faxr1ddin/Healthy-Food)  
+> A SwiftUI-based food scanner that analyzes ingredients and determines whether products are **Halal or Haram**.
+
+### 📱 iOS Group App (App Store)  
+> Team project released on the **App Store**, reaching **1,000+ active users**.
+
+---
+
+## 📊 GitHub Overview  
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxr1ddin&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faxr1ddin&show_icons=true&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## 💬 Quote  
+
+> *“Code should not just work — it should inspire.”* ✨  
+
+---
+
+<div align="center">
+
+### 🧡 Always open for collaboration and innovative ideas.
+Made with ❤️ by **Faxriddin_M**
+
+</div>
